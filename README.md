@@ -1,5 +1,7 @@
 # Game of Life in Javascript
 
+![Screenshot](http://lagrede.alwaysdata.net/game-of-life-js.png)
+
 ## Usage
 
 Open `index.html` in your browser.
